@@ -1,0 +1,8 @@
+akida==2.19.1
+cnn2snn==2.19.1
+numpy==2.0.2
+optuna
+quantizeml==1.2.3
+scikit-learn==1.6.1
+tensorflow==2.19.1
+tf_keras==2.19.0
