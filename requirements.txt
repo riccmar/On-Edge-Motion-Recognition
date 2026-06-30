@@ -7,3 +7,7 @@ scikit-learn==1.6.1
 tensorflow==2.19.1
 tf_keras==2.19.0
 gdown
+pandas
+matplotlib
+ipykernel
+joblib
