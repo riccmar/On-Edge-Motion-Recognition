@@ -1,0 +1,11 @@
+{
+    "conv1_filters": 32,
+    "conv2_filters": 128,
+    "conv3_filters": 192,
+    "conv4_filters": 32,
+    "num_dense_layers": 1,
+    "dense1_units": 96,
+    "dropout_rate": 0.4,
+    "learning_rate": 0.0004320278687265842,
+    "batch_size": 64
+}
