@@ -61,3 +61,6 @@ datasets/
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+#Ignore best parameters files
+models/big/best_params
