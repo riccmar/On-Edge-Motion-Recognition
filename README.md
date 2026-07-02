@@ -77,6 +77,7 @@ Below are the architectures of the generated convolutional neural networks for t
 │
 ├── requirements.txt                   # Dependencies for the project
 ├── LICENSE                            # BSD 3-Clause License
+├── Report_MLiA26_GU02_03.pdf          # Project Report
 └── README.md
 ```
 
